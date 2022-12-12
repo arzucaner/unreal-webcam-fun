@@ -1,0 +1,18 @@
+html {
+  font-size: 20px;
+  background: #006cbe;
+}
+
+.photo{
+    width:1200px;
+    height:500px;
+    float: left;
+}
+
+.photobooth {
+  background: white;
+  max-width: 200rem;
+  margin: 5rem;
+  border-radius: 5px;
+}
+
